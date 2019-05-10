@@ -1,0 +1,28 @@
+分层测试自动化把测试公用类分离
+把测试用例页面元素与测试数据分离
+把运行日志单独存放
+把测试报告单独存放
+配置邮件服务器，发送测试邮件
+UI-web-TEST
+-/config:存放测试配置文件以及测试数据，把所有测试项目的配置放在这里，支持.ini文件
+-/driver：存放所有的驱动包括chromedriver、iddriver等
+-/logs:存放各种日志，运行日志Runtime.log、错误日志Error.log等
+-/report：存放生成的测试报告.html
+-/screenshot：存放测试用例调用的图片及测试生成的截图
+-/src:源码层
+--/common：框架方法库（如果以后有新的框架级方法可以在这层新增）也可以封装成类进行调用
+---/chche.py  缓存
+---/confparser.py  配置文件解析器,读取配置文件数据类
+---/dbserver.py  数据库操作公用类
+---/emailserver.py 发送邮件服务封装公用类
+---/initserver.py 初始化driver类
+---/log.py 日志记录公用类
+--/functions: 用例级公用方法库(元素操作公用方法封装，基于PageObject模式对控件公用方法封装，常用业务操作封装)
+---/baseaction.py 封装元素操作的方法
+---/login.py 登录方法
+--/testcase：存放测试用例层
+---/baseactin.py
+---/testcast1.py
+--/runner层: 测试套件层,执行器，组织的测试套件suite，生成html格式测试报告
+---/testrunner.py: 各种加载测试用例的方法封装，以及生成报告
+-/run.py: 执行器，整个框架运行该文件即可

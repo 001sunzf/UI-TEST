@@ -1,0 +1,223 @@
+1557472742085	geckodriver	INFO	geckodriver 0.20.1
+1557472742095	geckodriver	INFO	Listening on 127.0.0.1:38388
+1557472745135	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.P9bbg9JCW7hi"
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1557472752465	Marionette	INFO	Listening on port 38758
+1557472753028	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557472754591, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+1557476095109	geckodriver	INFO	geckodriver 0.20.1
+1557476095120	geckodriver	INFO	Listening on 127.0.0.1:54419
+1557476098159	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.0Ynx8wDslhN6"
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1557476103387	Marionette	INFO	Listening on port 54798
+1557476103591	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557476103938, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 4776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+1557476165598	geckodriver	INFO	geckodriver 0.20.1
+1557476165608	geckodriver	INFO	Listening on 127.0.0.1:64661
+1557476168610	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.reYs2rVgr5CJ"
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1557476173093	Marionette	INFO	Listening on port 65029
+1557476173859	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557476174261, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+1557478272973	geckodriver	INFO	geckodriver 0.20.1
+1557478272984	geckodriver	INFO	Listening on 127.0.0.1:57451
+1557478276007	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.uCXJLA3nTmg4"
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1557478280616	Marionette	INFO	Listening on port 57827
+1557478281242	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557478281561, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+1557478359969	geckodriver	INFO	geckodriver 0.20.1
+1557478359986	geckodriver	INFO	Listening on 127.0.0.1:5114
+1557478363027	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.JQciTrJUK2kN"
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1557478367681	Marionette	INFO	Listening on port 5486
+1557478368486	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557478368803, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+1557478412185	geckodriver	INFO	geckodriver 0.20.1
+1557478412196	geckodriver	INFO	Listening on 127.0.0.1:11263
+1557478415264	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.CbYbeGSt2cBS"
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1557478419569	Marionette	INFO	Listening on port 11635
+1557478420615	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557478420814, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: http://192.168.110.85:8095/insView/assets/require.js, line 180: Error: Script error for "jquery"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://192.168.110.85:8095/insView/assets/require.js, line 180: Error: Script error for "config"
+http://requirejs.org/docs/errors.html#scripterror
+[Parent 8412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3888, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 3888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1557479189367	geckodriver	INFO	geckodriver 0.20.1
+1557479189383	geckodriver	INFO	Listening on 127.0.0.1:39407
+1557479192442	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.53XGEgxXRMMc"
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1557479196277	Marionette	INFO	Listening on port 39779
+1557479196696	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557479196987, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 900, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 900, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1557479294735	geckodriver	INFO	geckodriver 0.20.1
+1557479294752	geckodriver	INFO	Listening on 127.0.0.1:51756
+1557479297791	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.bXdIiWA0BN2b"
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1557479302249	Marionette	INFO	Listening on port 52120
+1557479303243	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557479303568, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7904, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 7904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1557479382725	geckodriver	INFO	geckodriver 0.20.1
+1557479382741	geckodriver	INFO	Listening on 127.0.0.1:62065
+1557479385807	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.r612vMQ9bmnq"
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1557479390010	Marionette	INFO	Listening on port 64406
+1557479391080	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557479391284, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1557191457719, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\nnn\AppData\Local\openvr\openvrpaths.vrpath
