@@ -30,13 +30,21 @@ class LoginPage(object):
         '''登录业务'''
         username_ele = self.username_ele()
         username_ele.send_keys(username)
-        time.sleep(1)
+        time.sleep(2)
         pwd_ele = self.pwd_ele()
         pwd_ele.send_keys(pwd)
-        time.sleep(1)
+        time.sleep(2)
         login_btn = self.login_btn_ele()
         login_btn.click()
-        time.sleep(1)
+        #time.sleep(2)
+
+    def jsa(self):   
+        #self.js1 = "document.getElementsByClassName($'hidden'[0]).removeClass('hidden')"
+        #js1 = 'document.getElementsByClassName($"hidden")[0].removeClass("hidden")';
+        #js1 = 'setTimeout(function(){window.page.pageVm.isShowError = false},1000)';
+        js1 = 'window.page.pageVm.isShowError = true'
+        
+        self.driver.execute_script(js1)
 
 
 
