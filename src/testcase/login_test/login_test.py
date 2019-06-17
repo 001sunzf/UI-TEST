@@ -20,8 +20,10 @@ class LoginTest(unittest.TestCase):
         log.info(u'--用户名和密码正确测试用例开始--')
         LoginPage(self.driver).login_by_username_pwd(u'孙兆富','admin123')
         log.info(u'寻找断点')
-        self.assertEqual(u'孙兆富',self.driver.find_element_by_xpath('/html/body/div/div[1]/div/div[1]/span[2]').text)
+        #self.assertEqual(u'孙兆富',self.driver.find_element_by_xpath('/html/body/div/div[1]/div/div[1]/span[2]').text)
         log.info(u'测试通过')
+        list_cookies = self.driver.get_cookies()
+        print(str(list_cookies))
     '''
 
     def test_login_02(self):

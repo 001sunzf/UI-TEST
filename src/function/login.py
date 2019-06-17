@@ -36,7 +36,7 @@ class LoginPage(object):
         time.sleep(2)
         login_btn = self.login_btn_ele()
         login_btn.click()
-        #time.sleep(2)
+        time.sleep(2)
 
     def jsa(self):   
         #self.js1 = "document.getElementsByClassName($'hidden'[0]).removeClass('hidden')"
