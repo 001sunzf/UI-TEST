@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>慧保支撑V1.4.6</title>
+    <title>慧保支撑V2.1.0</title>
     <meta name="generator" content="HTMLTestRunner 0.8.2"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
@@ -220,12 +220,12 @@ function showOutput(id, name) {
 --></script>
 
 <div class='heading'>
-<h1>慧保支撑V1.4.6</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-06-14 19:30:27</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:19.576120</p>
-<p class='attribute'><strong>Status:</strong> Pass 1</p>
+<h1>慧保支撑V2.1.0</h1>
+<p class='attribute'><strong>Start Time:</strong> 2019-06-19 00:14:49</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:07.823529</p>
+<p class='attribute'><strong>Status:</strong> Error 1</p>
 
-<p class='description'>慧保支撑登录和系统管理测试报告</p>
+<p class='description'>车旺慧保-运营支撑系统测试报告</p>
 </div>
 
 <div style="float:left; margin-left: 10px;font-size: 8pt;">
@@ -264,35 +264,36 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='passClass'>
-    <td>login_test.LoginTest: 登录测试用例</td>
-    <td>1</td>
+<tr class='errorClass'>
+    <td>login2_testA.LoginTest: 登录测试用例</td>
     <td>1</td>
     <td>0</td>
     <td>0</td>
+    <td>1</td>
     <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
 </tr>
 
-<tr id='pt1.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_login_01</div></td>
+<tr id='ft1.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_login_01</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
-        pass</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
+        error</a>
 
-    <div id='div_pt1.1' class="popup_window">
+    <div id='div_ft1.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-pt1.1: [2019-06-14 19:30:37,096]-log.py[line:35]-fuc:__console-INFO:--用户名和密码正确测试用例开始--
-[2019-06-14 19:30:44,613]-log.py[line:35]-fuc:__console-INFO:寻找断点
-[2019-06-14 19:30:44,614]-log.py[line:35]-fuc:__console-INFO:测试通过
-[{'httpOnly': True, 'value': '91a81e78d65946529ca2d830f07bd0b7', 'path': '/', 'domain': '192.168.110.85', 'name': 'zcpt.session.id', 'secure': False}]
-[2019-06-14 19:30:46,594]-log.py[line:35]-fuc:__console-INFO:--测试结束--
+ft1.1: [2019-06-19 00:14:56,024]-log.py[line:35]-fuc:__console-INFO:--用户名和密码正确测试用例开始--
+[2019-06-19 00:14:57,043]-log.py[line:35]-fuc:__console-INFO:--测试结束--
+Traceback (most recent call last):
+  File "F:\UI-TEST\UI-TEST\src\testcase\login_test\login2_testA.py", line 25, in test_login_01
+    ele_dic = IniHelper(u'元素标识.ini',u'用户和密码').get_section_dic(u'账号')
+TypeError: object() takes no parameters
 
 
         </pre>
@@ -305,9 +306,9 @@ pt1.1: [2019-06-14 19:30:37,096]-log.py[line:35]-fuc:__console-INFO:--用户名�
 <tr id='total_row'>
     <td>Total</td>
     <td>1</td>
-    <td class="text text-success">1</td>
+    <td class="text text-success">0</td>
     <td class="text text-danger">0</td>
-    <td class="text text-warning">0</td>
+    <td class="text text-warning">1</td>
     <td>&nbsp;</td>
 </tr>
 </table>
@@ -317,7 +318,7 @@ pt1.1: [2019-06-14 19:30:37,096]-log.py[line:35]-fuc:__console-INFO:--用户名�
     <script type="text/javascript">
 var data = [
 	{
-		value: 0,
+		value: 1,
 		color: "#ebccd1",
 		label: "Error",
 		labelColor: 'white',
@@ -331,7 +332,7 @@ var data = [
 		labelFontSize: '16'
 	},
 	{
-		value : 1,
+		value : 0,
 		color : "#d6e9c6",
 		label : "Pass",
 		labelColor: 'white',

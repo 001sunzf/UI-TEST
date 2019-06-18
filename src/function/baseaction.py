@@ -40,9 +40,9 @@ class BaseAction(object):
 				ele = self.driver.find_element_by_xpath(value)
 			else:
 				print('没有这种元素定位方式{}'.format(ele_type))
-		except NoSuchElementException,e:
+		except NoSuchElementException as e:
 			print(e.msg)
-		except TimeoutException,e:
+		except TimeoutException as e:
 			print(e.msg)
 		else:
 			return ele

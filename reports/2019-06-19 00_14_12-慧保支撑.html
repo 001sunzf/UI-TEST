@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>慧保支撑V1.4.6</title>
+    <title>慧保支撑V2.1.0</title>
     <meta name="generator" content="HTMLTestRunner 0.8.2"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
@@ -220,12 +220,12 @@ function showOutput(id, name) {
 --></script>
 
 <div class='heading'>
-<h1>慧保支撑V1.4.6</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-06-14 19:10:20</p>
-<p class='attribute'><strong>Duration:</strong> 0:01:24.899856</p>
+<h1>慧保支撑V2.1.0</h1>
+<p class='attribute'><strong>Start Time:</strong> 2019-06-19 00:14:12</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:00</p>
 <p class='attribute'><strong>Status:</strong> Error 1</p>
 
-<p class='description'>慧保支撑登录和系统管理测试报告</p>
+<p class='description'>车旺慧保-运营支撑系统测试报告</p>
 </div>
 
 <div style="float:left; margin-left: 10px;font-size: 8pt;">
@@ -265,7 +265,7 @@ function showOutput(id, name) {
 </tr>
 
 <tr class='errorClass'>
-    <td>login_test.LoginTest: 登录测试用例</td>
+    <td>unittest.loader._FailedTest</td>
     <td>1</td>
     <td>0</td>
     <td>0</td>
@@ -274,7 +274,7 @@ function showOutput(id, name) {
 </tr>
 
 <tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_login_01</div></td>
+    <td class='errorCase'><div class='testcase'>login2_testA</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
@@ -288,20 +288,22 @@ function showOutput(id, name) {
         </div>
         <pre>
         
-ft1.1: Traceback (most recent call last):
-  File "E:\SublimText3_workhome\UI-web-TEST\src\testcase\login_test\login_test.py", line 13, in setUp
-    self.driver = webdriver.Firefox()
-  File "E:\Python3.5.2\lib\site-packages\selenium\webdriver\firefox\webdriver.py", line 170, in __init__
-    keep_alive=True)
-  File "E:\Python3.5.2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 156, in __init__
-    self.start_session(capabilities, browser_profile)
-  File "E:\Python3.5.2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 245, in start_session
-    response = self.execute(Command.NEW_SESSION, parameters)
-  File "E:\Python3.5.2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 314, in execute
-    self.error_handler.check_response(response)
-  File "E:\Python3.5.2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: newSession
+ft1.1: ImportError: Failed to import test module: login2_testA
+Traceback (most recent call last):
+  File "D:\Python\lib\unittest\loader.py", line 428, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "D:\Python\lib\unittest\loader.py", line 369, in _get_module_from_name
+    __import__(name)
+  File "D:\PyCharm 2018.1.4\helpers\pydev\_pydev_bundle\pydev_import_hook.py", line 19, in do_import
+    module = self._system_import(name, *args, **kwargs)
+  File "F:\UI-TEST\UI-TEST\src\testcase\login_test\login2_testA.py", line 7, in &lt;module&gt;
+    from src.function.helper_init import IniHelper
+  File "D:\PyCharm 2018.1.4\helpers\pydev\_pydev_bundle\pydev_import_hook.py", line 19, in do_import
+    module = self._system_import(name, *args, **kwargs)
+  File "F:/UI-TEST/UI-TEST\src\function\helper_init.py", line 36
+    def _get_read_handle(self):
+    ^
+IndentationError: unexpected indent
 
 
 

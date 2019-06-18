@@ -7,7 +7,7 @@ sys.path.append('./src/testcase/login_test')
 
 # 获取文件名为_test.py 的所有用例
 test_dir = './src/testcase/login_test'
-discover = unittest.defaultTestLoader.discover(test_dir,pattern='*_test.py')
+discover = unittest.defaultTestLoader.discover(test_dir,pattern='*_testA.py')
 
 if __name__ == '__main__':
     nowtime = str(time.strftime("%Y-%m-%d %H_%M_%S"))
@@ -15,8 +15,8 @@ if __name__ == '__main__':
     fp = open(filename,'wb')
     runner = HTMLTestRunner(
         stream=fp,
-        title=u'慧保支撑V1.4.6',
-        description=u'慧保支撑登录和系统管理测试报告'
+        title=u'慧保支撑V2.1.0',
+        description=u'车旺慧保-运营支撑系统测试报告'
     )
     runner.run(discover)
     fp.close()
