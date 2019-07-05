@@ -5,9 +5,12 @@ from HTMLTestRunner import HTMLTestRunner
 
 sys.path.append('./src/testcase/login_test')
 
+
 # 获取文件名为_test.py 的所有用例
-test_dir = './src/testcase/login_test'
+#test_dir = './src/testcase/login_test'
+test_dir = './src/testcase/vehicle_management'
 discover = unittest.defaultTestLoader.discover(test_dir,pattern='*_testA.py')
+
 
 if __name__ == '__main__':
     nowtime = str(time.strftime("%Y-%m-%d %H_%M_%S"))

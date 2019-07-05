@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 
-import selenium,time
+from selenium import webdriver
+import time,re,os
 class LoginPage(object):
     '''登录页面'''
 
@@ -37,16 +38,6 @@ class LoginPage(object):
         login_btn = self.login_btn_ele()
         login_btn.click()
         time.sleep(2)
-
-    def jsa(self):   
-        #self.js1 = "document.getElementsByClassName($'hidden'[0]).removeClass('hidden')"
-        #js1 = 'document.getElementsByClassName($"hidden")[0].removeClass("hidden")';
-        #js1 = 'setTimeout(function(){window.page.pageVm.isShowError = false},1000)';
-        js1 = 'window.page.pageVm.isShowError = true'
-        
-        self.driver.execute_script(js1)
-
-
 
 
 

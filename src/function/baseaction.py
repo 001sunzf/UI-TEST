@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
 import os,re,time
 
 class BaseAction(object):
