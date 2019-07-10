@@ -3,12 +3,12 @@
 import os,sys,time,unittest
 from HTMLTestRunner import HTMLTestRunner
 
-sys.path.append('./src/testcase/login_test')
+sys.path.append('./src/testcase/')
 
 
 # 获取文件名为_test.py 的所有用例
 #test_dir = './src/testcase/login_test'
-test_dir = './src/testcase/vehicle_management'
+test_dir = './src/testcase/'
 discover = unittest.defaultTestLoader.discover(test_dir,pattern='*_testA.py')
 
 

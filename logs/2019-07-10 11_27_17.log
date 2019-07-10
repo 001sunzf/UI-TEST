@@ -1,0 +1,12 @@
+[2019-07-10 11:27:35,745]-log.py[line:35]-fuc:__console-INFO:-------测试用例开始--------
+[2019-07-10 11:27:35,781]-log.py[line:35]-fuc:__console-INFO:测试结束
+[2019-07-10 11:27:37,824]-log.py[line:35]-fuc:__console-INFO:关闭浏览器，测试用例退出
+[2019-07-10 11:27:46,649]-log.py[line:35]-fuc:__console-INFO:--用户名和密码正确测试用例开始--
+[2019-07-10 11:27:57,618]-log.py[line:35]-fuc:__console-INFO:开始断言
+[2019-07-10 11:27:57,677]-log.py[line:35]-fuc:__console-INFO:断言通过
+[2019-07-10 11:27:59,483]-log.py[line:35]-fuc:__console-INFO:--测试结束--
+[2019-07-10 11:28:08,871]-log.py[line:35]-fuc:__console-INFO:--用户名正确密码错误测试用例开始--
+[2019-07-10 11:28:15,169]-log.py[line:35]-fuc:__console-INFO:开始断言
+[2019-07-10 11:28:15,223]-log.py[line:35]-fuc:__console-INFO:断言通过
+[2019-07-10 11:28:15,224]-log.py[line:35]-fuc:__console-INFO:测试通过
+[2019-07-10 11:28:17,125]-log.py[line:35]-fuc:__console-INFO:--测试结束--

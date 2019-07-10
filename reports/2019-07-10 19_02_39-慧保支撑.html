@@ -221,9 +221,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>慧保支撑V2.1.0</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-06-19 00:14:49</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:07.823529</p>
-<p class='attribute'><strong>Status:</strong> Error 1</p>
+<p class='attribute'><strong>Start Time:</strong> 2019-07-10 19:02:39</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:26.034489</p>
+<p class='attribute'><strong>Status:</strong> Failure 1</p>
 
 <p class='description'>车旺慧保-运营支撑系统测试报告</p>
 </div>
@@ -264,22 +264,22 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='errorClass'>
-    <td>login2_testA.LoginTest: 登录测试用例</td>
+<tr class='failClass'>
+    <td>business_management.business_management_testA.BusinessMnagement: 企业管理必填项</td>
     <td>1</td>
     <td>0</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
     <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
 </tr>
 
 <tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_login_01</div></td>
+    <td class='failCase'><div class='testcase'>test_entName: 测试企业名称必填</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
     <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        error</a>
+        fail</a>
 
     <div id='div_ft1.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
@@ -288,12 +288,14 @@ function showOutput(id, name) {
         </div>
         <pre>
         
-ft1.1: [2019-06-19 00:14:56,024]-log.py[line:35]-fuc:__console-INFO:--用户名和密码正确测试用例开始--
-[2019-06-19 00:14:57,043]-log.py[line:35]-fuc:__console-INFO:--测试结束--
-Traceback (most recent call last):
-  File "F:\UI-TEST\UI-TEST\src\testcase\login_test\login2_testA.py", line 25, in test_login_01
-    ele_dic = IniHelper(u'元素标识.ini',u'用户和密码').get_section_dic(u'账号')
-TypeError: object() takes no parameters
+ft1.1: Traceback (most recent call last):
+  File "E:\TestCase\UI-web-TEST\UI-TEST\src\testcase\business_management\business_management_testA.py", line 27, in test_entName
+    self.assertEqual(u'企业名称必填1', driver.find_element_by_id('entName-error').text)
+AssertionError: '企业名称必填1' != '企业名称必填'
+- 企业名称必填1
+?       -
++ 企业名称必填
+
 
 
         </pre>
@@ -307,8 +309,8 @@ TypeError: object() takes no parameters
     <td>Total</td>
     <td>1</td>
     <td class="text text-success">0</td>
-    <td class="text text-danger">0</td>
-    <td class="text text-warning">1</td>
+    <td class="text text-danger">1</td>
+    <td class="text text-warning">0</td>
     <td>&nbsp;</td>
 </tr>
 </table>
@@ -318,14 +320,14 @@ TypeError: object() takes no parameters
     <script type="text/javascript">
 var data = [
 	{
-		value: 1,
+		value: 0,
 		color: "#ebccd1",
 		label: "Error",
 		labelColor: 'white',
 		labelFontSize: '16'
 	},
 	{
-		value : 0,
+		value : 1,
 		color : "#faebcc",
 		label: "Fail",
 		labelColor: 'white',

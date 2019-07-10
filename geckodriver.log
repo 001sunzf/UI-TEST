@@ -1,0 +1,331 @@
+1562728415952	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.cLU7u0rqF6So"
+1562728416494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562728416494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562728416494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562728420751	Marionette	INFO	Listening on port 57114
+1562728421009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562728421732, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562728422453	Marionette	INFO	Stopped listening on port 57114
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Child 7984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6164, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1562728430035	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.iuO9AuQxywzV"
+1562728430589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562728430590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562728430590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562728434340	Marionette	INFO	Listening on port 58954
+1562728434509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562728434898, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562728446388	Marionette	INFO	Stopped listening on port 58954
+[Child 10692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10848, Chrome_ChildThread] WARNING: pipe error: 109: 1562728452287	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.xdGsJUTQ86Jw"
+1562728452819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562728452819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562728452820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562728456230	Marionette	INFO	Listening on port 61829
+1562728456706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562728457273, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562728462367, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562728464418	Marionette	INFO	Stopped listening on port 61829
+[Child 904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035[Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta[Parent 10340, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1562728806912	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.IZhYfwWBAXcr"
+1562728807419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562728807419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562728807419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562728811151	Marionette	INFO	Listening on port 49578
+1562728811347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562728811996, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562728822984	Marionette	INFO	Stopped listening on port 49578
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9960, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 9960, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 9960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/1562728829388	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.uJD5v2UvMZXY"
+1562728830357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562728830358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562728830358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562728834106	Marionette	INFO	Listening on port 52484
+1562728834438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562728834924, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562728846404	Marionette	INFO	Stopped listening on port 52484
+[Parent 9292, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9292, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9292, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9292, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1562728851496	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.a87RZ7B5iU1f"
+1562728852102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562728852103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562728852103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562728855367	Marionette	INFO	Listening on port 55366
+1562728855462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562728855766, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562728861078, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562728863197	Marionette	INFO	Stopped listening on port 55366
+[Child 10960, Chr[Child 6528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1562729120981	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.DQaUgtqu3ZqQ"
+1562729121491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562729121491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562729121491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562729124872	Marionette	INFO	Listening on port 61048
+1562729124888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562729125470, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562729135795	Marionette	INFO	Stopped listening on port 61048
+[Child 10468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6080, Chrome_ChildThread] WARNING: pipe [Parent 5352, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1562729140857	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.j0IQ9KCD3j5c"
+1562729141341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562729141341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562729141341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562729145125	Marionette	INFO	Listening on port 49211
+1562729145303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562729145787, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562729157261	Marionette	INFO	Stopped listening on port 49211
+[Child 7780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc[Child 7528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10692, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1562729162388	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.9Z9Z5v0m1kGm"
+1562729162877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562729162877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562729162877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562729166342	Marionette	INFO	Listening on port 52012
+1562729166707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562729167443, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562729172426, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562729174464	Marionette	INFO	Stopped listening on port 52012
+[Child 4272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4272, Chrome_ChildThread] WARNING[Child 7992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9748, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_[Parent 9748, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1562729240507	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.cIkVH6VL3yN8"
+1562729240982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562729240982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562729240982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562729244742	Marionette	INFO	Listening on port 62039
+1562729244927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562729245494, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562729255785	Marionette	INFO	Stopped listening on port 62039
+[Parent 9840, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9840, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1562729260875	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.Jwr7nsW9Pm1w"
+1562729261510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562729261511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562729261511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562729264886	Marionette	INFO	Listening on port 50283
+1562729265303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562729265859, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562729277680	Marionette	INFO	Stopped listening on port 50283
+[Parent 8748, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8748, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6688, Chrome_ChildThread] WARNING: pipe err[Parent 8748, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/t1562729282541	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.7Q1Lx5eGb5Xo"
+1562729283028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562729283029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562729283029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562729287181	Marionette	INFO	Listening on port 53085
+1562729287513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562729287887, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562729293371, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562729295228	Marionette	INFO	Stopped listening on port 53085
+[Child 9428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9428, Chrome_ChildThread][Child 6308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8536, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249[Parent 8536, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1562756080223	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.SauDkxEhqziv"
+1562756080838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562756080838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562756080839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562756084767	Marionette	INFO	Listening on port 53913
+1562756085198	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562719311956%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 9920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5068, Chrome_ChildThread] WARNI[Child 2968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9920, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1562756585978	Marionette	INFO	Stopped listening on port 53913
+RL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562719311956%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/bu[Child 11056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9440, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/b1562756583489	Marionette	INFO	Stopped listening on port 57732
+ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 4104, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4104, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1562756578894	Marionette	INFO	Stopped listening on port 60391
+try 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562756415169	Marionette	INFO	Listening on port 49509
+1562756415213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562756415584, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562756427198	Marionette	INFO	Stopped listening on port 49509
+[Child 9924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/t[Child 8276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8276, Chrome_ChildThread] WARNING: pipe[Parent 7136, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1562756562999	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.tqvm18FYW8ly"
+1562756563571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562756563571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562756563572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1562756567779	Marionette	INFO	Listening on port 52900
+1562756568006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562756568378, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1562567121272, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1562756580090	Marionette	INFO	Stopped listening on port 52900
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8376, Chrome_ChildThread] WARNING: pipe error: 109: file z[Child 7272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 105: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
