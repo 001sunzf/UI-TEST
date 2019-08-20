@@ -8,11 +8,11 @@ from src.common.log import Log
 log = Log()
 
 class VehicleSearh(unittest.TestCase):
-    u'''车辆查询'''
+    '''车辆查询'''
     def setUp(self):
         pre_explorer.setup(self)
     def test_search_vehicle_pre(self):
-        u'''默认条件查询车辆'''
+        '''默认条件查询车辆'''
         dr = self.driver
         dr.get(self.base_url + 'login.html')
         pre_explorer.login_successful(self)

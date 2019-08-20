@@ -50,4 +50,36 @@ def login_successful_live_business(self):
 def current_time(self):
     #格式化系统时间
     current_time = time.strftime('%Y-%m-%d-%H-%M-%S',time.localtime(time.time()))
-
+'''
+def in_business_managemet0000(self):
+    #企业必填校验
+    driver = self.driver
+    driver.get(self.base_url + 'login.html')
+    login_successful_live_business(self)
+    time.sleep(3)
+     #切换iframe
+    driver.switch_to.frame(0)
+    time.sleep(1)
+    driver.find_element_by_xpath('//*[@id="add-btn"]').click()
+    time.sleep(1)
+    #进入下一个iframe
+    driver.switch_to.frame('detailFrame')
+    #直接点击保存，页面显示必填提示
+    driver.find_element_by_id('add-btn').click()
+    log.info(u'直接点击保存按钮')
+'''
+def in_business_managemet(self):
+    driver = self.driver
+    driver.get(self.base_url + 'login.html')
+    login_successful_live_business(self)
+    time.sleep(3)
+    #切换iframe
+    driver.switch_to.frame(0)
+    time.sleep(1)
+    driver.find_element_by_xpath('//*[@id="add-btn"]').click()
+    time.sleep(1)
+    #进入下一个iframe
+    driver.switch_to.frame('detailFrame')
+    #直接电话保存，页面显示必填提示
+    driver.find_element_by_id('add-btn').click()
+    log.info(u'直接点击保存按钮')

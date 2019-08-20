@@ -23,6 +23,5 @@ UI-web-TEST
 --/testcase：存放测试用例层
 ---/basecase.py   测试用例基础类
 ---/testcast1.py   测试用例1
---/runner层: 测试套件层,执行器，组织的测试套件suite，生成html格式测试报告
 ---/testrunner.py: 各种加载测试用例的方法封装，以及生成报告
 -/run.py: 执行器，整个框架运行该文件即可
