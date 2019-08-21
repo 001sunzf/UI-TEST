@@ -15,7 +15,7 @@ class LoginTest(unittest.TestCase):
         time.sleep(1)
 
     def test_login_01(self):
-        '''u用户名和密码正确，登录成功'''
+        u'''用户名和密码正确，登录成功'''
         log.info(u'--用户名和密码正确测试用例开始--')
         LoginPage(self.driver).login_by_username_pwd(u'孙兆富','admin123')
         time.sleep(4)
@@ -27,7 +27,7 @@ class LoginTest(unittest.TestCase):
 
 
     def test_login_02(self):
-        '''u用户名和密码错误，登录失败'''
+        u'''用户名和密码错误，登录失败'''
         log.info(u'--用户名正确密码错误测试用例开始--')
         LoginPage(self.driver).login_by_username_pwd(u'孙兆富','admin1234')
         log.info(u'开始断言')

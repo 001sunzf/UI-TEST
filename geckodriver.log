@@ -329,3 +329,1574 @@ IPDL protocol error: Handler returned error code!
 [Child 8376, Chrome_ChildThread] WARNING: pipe error: 109: file z[Child 7272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
 [Child 7272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
 JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 105: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+1566306278606	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.kDSGuUyiuLNL"
+1566306279621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566306279622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566306279622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566306283356	Marionette	INFO	Listening on port 58873
+1566306283606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566306284267, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566292328247, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566292328247, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566292328247, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566306295328	Marionette	INFO	Stopped listening on port 58873
+[Child 29036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 29036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 32860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 32860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 30024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 30024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566386839117	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.PHBtmZMpmdrX"
+1566386841495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566386841496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566386841496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566386848911	Marionette	INFO	Listening on port 50563
+1566386849403	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386886803, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566386899242	Marionette	INFO	Stopped listening on port 50563
+[Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566386904796	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.16OnHoRJF8Wy"
+1566386905795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566386905795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566386905795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566386909606	Marionette	INFO	Listening on port 58336
+1566386909824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386910082, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566386921176	Marionette	INFO	Stopped listening on port 58336
+[Child 19920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/ch[Parent 19852, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566386926471	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.eps0BFgBboqO"
+1566386927541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566386927542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566386927542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566386931712	Marionette	INFO	Listening on port 60891
+1566386932043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386932293, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566386943720	Marionette	INFO	Stopped listening on port 60891
+[Child 20104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build[Parent 19152, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ip[Child 20304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566386949127	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.UcCDpUSCoOy7"
+1566386950101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566386950101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566386950101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566386953753	Marionette	INFO	Listening on port 49182
+1566386954175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386954635, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566386965827	Marionette	INFO	Stopped listening on port 49182
+[Child 18904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18904, Chrome_ChildThread] WARNING: pipe err[Parent 19736, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566386971521	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.uMGm8mRLZsIy"
+1566386972524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566386972525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566386972525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566386976000	Marionette	INFO	Listening on port 51835
+1566386976430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386976839, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566386988110	Marionette	INFO	Stopped listening on port 51835
+[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14928, Chrome_Chil[Child 18716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566386993476	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.gV5RyPDaKJXg"
+1566386994531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566386994532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566386994532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566386997792	Marionette	INFO	Listening on port 54467
+1566386997964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386998589, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387009582	Marionette	INFO	Stopped listening on port 54467
+[Child 18384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18384, Chrome_ChildThread] WARNING: pipe error: 109: fi[Parent 6840, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task[Child 18568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/taCreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387015298	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.LX5FFUf9x7md"
+1566387016328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387016329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387016329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387020552	Marionette	INFO	Listening on port 57103
+1566387020808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387021297, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387032732	Marionette	INFO	Stopped listening on port 57103
+[Child 20584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium[Child 19288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_155/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+8035249/bui[Parent 20872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20872, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387037928	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.9mmHu1ZsSkug"
+1566387038872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387038872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387038872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387042815	Marionette	INFO	Listening on port 59794
+1566387042873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387043573, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387054746	Marionette	INFO	Stopped listening on port 59794
+[Child 19188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19188, Chrome_ChildThread] WARNING[Child 20412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387060032	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.AhB9TBUAcuCY"
+1566387061010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387061010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387061010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387064631	Marionette	INFO	Listening on port 64421
+1566387065000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387065398, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387075862	Marionette	INFO	Stopped listening on port 64421
+[Child 19756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19756, Chrome_ChildThread] WARNING: pipe error:[Child 18708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 21348, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387081694	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.Gpf9CbfBYJJ3"
+1566387083042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387083043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387083043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387086450	Marionette	INFO	Listening on port 50612
+1566387086730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387087390, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387098844	Marionette	INFO	Stopped listening on port 50612
+[Parent 21432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19972, Chrome_[Child 21216, Chrome_ChildThr[Child 18972, Chrome_ChildThread] WARNING: pipe error: [Parent 21432, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387104522	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.jYIHmg1zhoUc"
+1566387105643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387105644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387105644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387109488	Marionette	INFO	Listening on port 53355
+1566387109957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387110260, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387115556, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387117606	Marionette	INFO	Stopped listening on port 53355
+[Child 20188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20188, Chrome_ChildThread] WARNING[Child 19124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17216, Chrome_CCreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387223123	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.2MXQQXZbyzCH"
+1566387224136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387224137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387224137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387227937	Marionette	INFO	Listening on port 52981
+1566387228112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387228772, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387239799	Marionette	INFO	Stopped listening on port 52981
+[Child 21496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387245932	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.xFC9z2BhnM5H"
+1566387247261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387247261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387247262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387250829	Marionette	INFO	Listening on port 55724
+1566387250969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387251743, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387262699	Marionette	INFO	Stopped listening on port 55724
+[Child 18888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18880, Chrome_ChildThread] WARNING: pipe err[Child 19616, Chrome_ChildThread] WARNING: CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387267919	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.FslGAcYp77ef"
+1566387269048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387269048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387269048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387272561	Marionette	INFO	Listening on port 58338
+1566387272940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387273397, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387284317	Marionette	INFO	Stopped listening on port 58338
+[Child 18652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/buil[Child 21316, Chrome_ChildThread][Parent 20352, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387289851	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.X35dguk5xmqh"
+1566387290877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387290878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387290878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387294346	Marionette	INFO	Listening on port 60943
+1566387294779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387295475, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387306875	Marionette	INFO	Stopped listening on port 60943
+[Child 20636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18844, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387312126	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.PmZF7dG5hFy0"
+1566387313356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387313357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387313357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387317530	Marionette	INFO	Listening on port 49197
+1566387317657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387318030, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387329624	Marionette	INFO	Stopped listening on port 49197
+[Child 20132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19944, Chrome_ChildThread] WARNING: pCreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387335422	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.WnWRGV6XOBQw"
+1566387336535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387336536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387336536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387340678	Marionette	INFO	Listening on port 51953
+1566387340941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387341449, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387352846	Marionette	INFO	Stopped listening on port 51953
+[Child 20112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20112, Chrome_ChildThread] WARNING: pipe error[Child 18468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 20588, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387358041	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.DIM9sNGikylJ"
+1566387359047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387359047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387359047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387362698	Marionette	INFO	Listening on port 54643
+1566387363094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387363459, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387374449	Marionette	INFO	Stopped listening on port 54643
+[Child 20820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20820, Chrome_ChildThread] WARNING: pipe eIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13120, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/comCreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387379680	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.DesSzQLrHyOA"
+1566387380688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387380688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387380689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387384744	Marionette	INFO	Listening on port 57253
+1566387385186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387385454, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387396909	Marionette	INFO	Stopped listening on port 57253
+[Parent 19204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_155803[Child 21280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src[Parent 19204, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387402161	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.3yalw6ekCe8a"
+1566387403143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387403143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387403143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387406749	Marionette	INFO	Listening on port 59937
+1566387407248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387407617, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387417970	Marionette	INFO	Stopped listening on port 59937
+[Child 20916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_15[Child 21460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channe[Parent 20444, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387423734	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.ox7vhO3PT0hd"
+1566387424728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387424728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387424728	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387428203	Marionette	INFO	Listening on port 51367
+1566387428235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387428672, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/insView/assets/jquery/jquery-1.9.1.min.js?v=1566386876844, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387440802	Marionette	INFO	Stopped listening on port 51367
+[Child 20808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19596, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+1566387446299	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnn\\AppData\\Local\\Temp\\rust_mozprofile.el8SLKtH90eF"
+1566387447695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566387447696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566387447697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.951.0.0 and DLL(s) 8.15.10.2476,  reported.
+1566387450933	Marionette	INFO	Listening on port 54097
+1566387451257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387451918, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.110.85:8095/assets/jquery/jquery-1.9.1.min.js?v=1566387457143, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1566387459164	Marionette	INFO	Stopped listening on port 54097
+[Child 6976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6976, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Child 21228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19600, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/buiCreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
+CreateFile() Error: 5
